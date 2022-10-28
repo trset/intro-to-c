@@ -17,4 +17,4 @@ int main(){
     printf("simple interest = %f\n",si);
 
     return 0;
-}1500
+}
